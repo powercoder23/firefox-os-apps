@@ -1,0 +1,9 @@
+body{
+
+}
+
+.ui-header .ui-title, .ui-footer .ui-title{
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: left;
+}
